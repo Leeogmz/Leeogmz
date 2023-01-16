@@ -12,15 +12,17 @@
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img <img align="center" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" width="65" height = "28"></a>
 
 </div>
 
-#### Inglês |My duolingo|
+#### Inglês |My Duolingo|
 
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Leeo.gmz)
 
 </div>
 
-#### Tecnologia |My Alura|
-
-[![Alura](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://cursos.alura.com.br/user/leonardo-gomes15)
+#### Cursos e Certificados
+<a href="https://cursos.alura.com.br/user/leonardo-gomes15">
+  <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="65" height = "28">
+</a>
