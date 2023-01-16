@@ -18,3 +18,9 @@
 #### Inglês |My duolingo|
 
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Leeo.gmz)
+
+</div>
+
+#### Inglês |My duolingo|
+
+[![Alura](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://cursos.alura.com.br/user/leonardo-gomes15)
