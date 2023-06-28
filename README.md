@@ -7,11 +7,13 @@
 
 </div>
 
-## Minhas Certificações 📜
+## Conhecimentos 📜
 
 <div style="display: inline_block"><br/>
   
-  <a href=[https://cursos.alura.com.br/user/leonardo-gomes15/degree-power-bi-v228783-228783/certificate](https://cursos.alura.com.br/user/leonardo-gomes15/fullCertificate/3a132e8868f1edda0156e004520e1d83) ><img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" ></a>
+  <img src = "https://th.bing.com/th/id/OIP.cjJhJRxQAycutyvex9a_0gAAAA?pid=ImgDet&rs=1"> 
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" >
   <img <img align="center" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" width="65" height = "28"></a>
 
 </div>
