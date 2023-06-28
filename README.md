@@ -1,4 +1,4 @@
-### Olá! Eu sou Leonardo Gomes
+## Olá! Eu sou Leonardo Gomes
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gomes-52550b174/)
@@ -18,13 +18,13 @@
 
 </div>
 
-#### Inglês |My Duolingo|
+## Inglês
 
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Leeo.gmz)
 
 </div>
 
-#### Cursos e Certificados
+## Cursos e Certificados
 <a href="https://cursos.alura.com.br/user/leonardo-gomes15">
   <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="65" height = "28">
 </a>
