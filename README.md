@@ -1,4 +1,4 @@
-## Olá! Eu sou Leonardo Gomes
+## Olá! Eu sou Leonardo Gomes 👋🏼
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gomes-52550b174/)
@@ -7,7 +7,7 @@
 
 </div>
 
-## Conhecimentos 📜
+## Conhecimentos 📖
 
 <div style="display: inline_block"><br/>
   
@@ -24,7 +24,7 @@
 
 </div>
 
-## Cursos e Certificados
-<a href="https://cursos.alura.com.br/user/leonardo-gomes15">
+## Meus Certificados 📜
+<a href="[https://cursos.alura.com.br/user/leonardo-gomes15](https://cursos.alura.com.br/user/leonardo-gomes15/fullCertificate/3a132e8868f1edda0156e004520e1d83)">
   <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="65" height = "28">
 </a>
