@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br/>
   
-  <img align="center" src = "[https://1.bp.blogspot.com/-iUK0M_BqP-Y/XQwPi1ZwAcI/AAAAAAAAc1c/6-6xS8vM-aIsEFuexrYcnKPV5fOlN5tKwCLcBGAs/w1200-h630-p-k-no-nu/SQL-stuctured-query-language-database-management.png](https://th.bing.com/th/id/OIP.5aVXI3RY0kMng_oFHUJiqQHaEK?pid=ImgDet&rs=1)" width="65" height = "28" > 
+  <img align="center" src = "https://velog.velcdn.com/images/ygh7687/post/d4b830e8-f879-41ca-a35b-8489f4fd63ab/sql.png" width="65" height = "28" > 
   <img align="center" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
   <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" >
   <img <img align="center" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" width="65" height = "28"></a>
