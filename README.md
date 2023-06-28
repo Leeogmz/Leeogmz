@@ -25,6 +25,6 @@
 </div>
 
 ## Meus Certificados 📜
-<a href="[https://cursos.alura.com.br/user/leonardo-gomes15](https://cursos.alura.com.br/user/leonardo-gomes15/fullCertificate/3a132e8868f1edda0156e004520e1d83)">
+<a href="https://cursos.alura.com.br/user/leonardo-gomes15/fullCertificate/3a132e8868f1edda0156e004520e1d83">
   <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="65" height = "28">
 </a>
